@@ -59,6 +59,9 @@ export default function Home() {
             <Button><Link href='/stat'>
             Stats
             </Link></Button>
+            <Button><Link href='/product'>
+            Product
+            </Link></Button>
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
         <a
