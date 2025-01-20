@@ -7,6 +7,6 @@ export default function Comment({ params: { idProduct, idComment} }: {
     }
 }) {
     return (
-        <div>Comment {idComment} for product {idProduct}</div>
+        <div>Comment {idComment} for product{idProduct}</div>
     )
 }
