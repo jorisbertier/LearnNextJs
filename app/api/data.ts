@@ -1,7 +1,7 @@
 export const articles = [
     {
         id: 1,
-        title:'Le vent'
+        title:'potiron'
     },
     {
         id: 2,
